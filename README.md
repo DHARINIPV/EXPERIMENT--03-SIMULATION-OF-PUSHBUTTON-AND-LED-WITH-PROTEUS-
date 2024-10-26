@@ -318,6 +318,11 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ![pmc_exp2(2)](https://github.com/user-attachments/assets/329fca39-ef0f-465e-9f69-824f2bba0da4)
 
+## PDF Design
+
+![image](https://github.com/user-attachments/assets/ce9e26ef-72f8-4aa8-8c55-2d98ebf23358)
+
+
  
 ## Result :
 Interfacing a digital output and digital input  with ARM microcontroller are simulated in proteus and the results are verified.
